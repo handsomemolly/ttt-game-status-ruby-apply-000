@@ -20,3 +20,5 @@ def won?(board)
   index[0] = win_combo[0]
   index[1] = win_combo[1]
   index[2] = win_combo[2]
+  
+  position_
