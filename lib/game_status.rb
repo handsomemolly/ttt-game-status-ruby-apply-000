@@ -26,4 +26,5 @@ def won?(board)
   position_3 = board[index_2]
   
   if position_1 == "X" && position_2 == "X" && position_3 = "X"
-    
+    return win_combo
+  elsif positio
