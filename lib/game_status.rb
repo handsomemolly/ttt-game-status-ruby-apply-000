@@ -21,4 +21,4 @@ def won?(board)
   index[1] = win_combo[1]
   index[2] = win_combo[2]
   
-  position_
+  position_1 = 
