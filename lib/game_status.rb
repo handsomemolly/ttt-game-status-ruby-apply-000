@@ -15,4 +15,4 @@ WIN_COMBINATIONS = [
   [2, 4, 6]  # diag 2 
   ]
 
-def won?
+def won?(board)
