@@ -10,5 +10,7 @@ WIN_COMBINATIONS = [
   [6, 7, 8], # bottom row
   [0, 3, 6], # first column
   [1, 4, 7], # second column
-  [2, 5, 8] # third column
+  [2, 5, 8], # third column
+  [0, 4, 8], # diag 1 
+  [2, 4, 6]  # diag 2 
   ]
