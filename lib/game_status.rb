@@ -14,3 +14,5 @@ WIN_COMBINATIONS = [
   [0, 4, 8], # diag 1 
   [2, 4, 6]  # diag 2 
   ]
+
+def won?
